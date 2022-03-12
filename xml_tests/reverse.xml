@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<reversegeocode attribution='Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright' querystring='lat=60.7950912488789&amp;lon=11.0958308659193&amp;format=xml'>
+<result place_id="108809928" osm_type="way" osm_id="28391092" ref="Sagvegen" lat="60.7952209486278" lon="11.095869287891416" boundingbox="60.7948157,60.796749,11.0954404,11.0995442" place_rank='26' address_rank='26'>Sagvegen, Hamar, Innlandet, 2321, Norge</result><addressparts><road>Sagvegen</road><city>Hamar</city><municipality>Hamar</municipality><county>Innlandet</county><postcode>2321</postcode><country>Norge</country><country_code>no</country_code></addressparts></reversegeocode>

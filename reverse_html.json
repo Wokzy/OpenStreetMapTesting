@@ -1,0 +1,14 @@
+[
+    {
+        "test_id": 1,
+        "test_parameters": {
+            "request_path": "/reverse"
+        },
+        "request_parameters": {
+            "lat":"60.7950912488789",
+            "lon":"11.0958308659193"
+
+        },
+        "expected_result": "html_tests/reverse.html"
+    }
+]

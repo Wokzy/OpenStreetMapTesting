@@ -1,0 +1,12 @@
+[
+    {
+        "test_id": 1,
+        "test_parameters": {
+            "request_path": "/search"
+        },
+        "request_parameters": {
+            "postalcode":1552
+        },
+        "expected_result": "html_tests/direct.html"
+    }
+]
