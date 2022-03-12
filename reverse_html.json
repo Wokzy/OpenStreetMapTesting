@@ -10,5 +10,44 @@
 
         },
         "expected_result": "html_tests/reverse.html"
+    },
+
+    {
+        "test_id": 2,
+        "test_parameters": {
+            "request_path": "/reverse"
+        },
+        "request_parameters": {
+            "lat":"78.12220",
+            "lon":"3.0258308659193"
+
+        },
+        "expected_result": "html_tests/unable.html"
+    },
+
+    {
+        "test_id": 3,
+        "test_parameters": {
+            "request_path": "/reverse"
+        },
+        "request_parameters": {
+            "lat":"23.780838257348222",
+            "lon":"-166.59969249999997"
+
+        },
+        "expected_result": "html_tests/hawaii_r.html"
+    },
+
+    {
+        "test_id": 4,
+        "test_parameters": {
+            "request_path": "/reverse"
+        },
+        "request_parameters": {
+            "lat":"45.76435",
+            "lon":"15.95764"
+
+        },
+        "expected_result": "html_tests/zagreb_r.html"
     }
 ]

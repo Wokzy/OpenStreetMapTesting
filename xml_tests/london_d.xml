@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<searchresults attribution='Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright' querystring='London, time square' exclude_place_ids='112581523' more_url='https://nominatim.openstreetmap.org/search/?q=London%2C+time+square&amp;exclude_place_ids=112581523&amp;format=xml'>
+<place place_id='112581523' osm_type='way' osm_id='41591436' place_rank='26' address_rank='26' boundingbox="51.5488981,51.5492669,-0.0731841,-0.0730057" lat='51.5491836' lon='-0.0731807' display_name='Time Square, South Hornsey, Shacklewell, London Borough of Hackney, London, Greater London, England, E8 2LT, United Kingdom' class='highway' type='residential' importance='0.41'/></searchresults>

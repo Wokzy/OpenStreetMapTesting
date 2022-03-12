@@ -8,5 +8,39 @@
             "postalcode":1552
         },
         "expected_result": "html_tests/direct.html"
+    },
+
+    {
+        "test_id": 2,
+        "test_parameters": {
+            "request_path": "/search"
+        },
+        "request_parameters": {
+            "postalcode":630000
+        },
+        "expected_result": "html_tests/novosibirsk_d.html"
+    },
+
+    {
+        "test_id": 3,
+        "test_parameters": {
+            "request_path": "/search"
+        },
+        "request_parameters": {
+            "q":"London, time square",
+            "limit":1
+        },
+        "expected_result": "html_tests/london_d.html"
+    },
+
+    {
+        "test_id": 4,
+        "test_parameters": {
+            "request_path": "/search"
+        },
+        "request_parameters": {
+            "q":"Hawaii"
+        },
+        "expected_result": "html_tests/hawaii_d.html"
     }
 ]
